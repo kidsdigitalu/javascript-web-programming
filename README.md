@@ -1,3 +1,5 @@
+# Javascript Web Programming
+
 ## Class Rules 
 
 - Always be respectful of yourself and others. 

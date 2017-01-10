@@ -47,3 +47,18 @@ Create a new folder on the desktop with your name. This is where your files will
 You should reference the documentation and examples available here: https://p5js.org/
 
 First think about shapes that make up your animal. Then think about colors, textures, and sounds.
+
+## Weekly Recaps 
+
+### Week 1
+
+- Intro and class rules 
+- What is programming? What is Javascript? 
+- The tools we use
+- Our first Hello world program
+- The developer console 
+- Hacking webpages  
+- Color on the web (hexidecimal) 
+- P5.js getting started
+
+

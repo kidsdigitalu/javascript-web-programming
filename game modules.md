@@ -63,7 +63,7 @@ function mousePressed() {
 
 What happens? 
 
-### Move the prite with your keyboard
+### Move the sprite with your keyboard
 
 Now, lets have our sprite move with keyboard controls. Lets make our code looks like this together: 
 

@@ -61,4 +61,21 @@ First think about shapes that make up your animal. Then think about colors, text
 - Color on the web (hexidecimal) 
 - P5.js getting started
 
+### Week 2 
+
+- Starting our animal project 
+- Followed the getting started on p5.js
+- Added shapes that moved with our mouse! 
+- Changed the color of the shapes.
+- Changed the stroke color, width of the  
+
+
+### Week 3
+
+- Find your base shape from the reference on p5js.org 
+- Program your animal 
+
+### Week 4 (this week) 
+
+- Start game project
 

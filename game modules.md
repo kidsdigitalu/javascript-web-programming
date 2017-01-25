@@ -11,6 +11,7 @@ This will be a 3 week project.
 - http://p5play.molleindustria.org/
 - http://creative-coding.decontextualize.com/making-games-with-p5-play/
 - Game examples: http://p5play.molleindustria.org/examples/index.html?fileName=pong.js
+- Great reference for keyCodes: http://keycode.info/
 
 ## Concepts 
 

@@ -37,7 +37,7 @@ Open the side panel and open index.html
 Add the p5.play library by creating a new line after line 6 and pasting this code: 
 
 ```javascript
-<script src="https://cdn.rawgit.com/molleindustria/p5.play/master/lib/p5.play.js"></script>
+<script src="https://cdn.rawgit.com/molleindustria/p5.play/1bf3c72fe6b647617373b9b3ea3e419baaef8cfd/lib/p5.play.js"></script>
 ```
 
 Open the file sketch.js and close the side panel.  
